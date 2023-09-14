@@ -1,4 +1,4 @@
-$lightGreen: #b9e7e7;
+$lightGreen: #c08ce8;
 
 .app {
   display: flex;
@@ -22,7 +22,7 @@ $lightGreen: #b9e7e7;
 
       h1 {
         font-size: 20px;
-        color: teal;
+        color: rgb(128, 17, 134);
         margin-bottom: 20px;
       }
 
@@ -43,7 +43,7 @@ $lightGreen: #b9e7e7;
         button {
           padding: 10px;
           border: none;
-          background-color: teal;
+          background-color: rgb(128, 17, 134);;
           cursor: pointer;
           color: white;
         }
@@ -100,9 +100,9 @@ $lightGreen: #b9e7e7;
             border: 1px solid white;
 
             &:hover {
-              color: teal;
+              color: rgb(128, 17, 134);
               background-color: white;
-              border: 1px solid teal;
+              border: 1px solid rgb(128, 17, 134);
             }
           }
         }
@@ -183,8 +183,8 @@ $lightGreen: #b9e7e7;
               border: none;
               cursor: pointer;
               background-color: white;
-              border: 1px solid teal;
-              color: teal;
+              border: 1px solid rgb(128, 17, 134);
+              color: rgb(128, 17, 134)l;
 
               &:hover {
                 border: 1px solid white;
@@ -284,9 +284,9 @@ $lightGreen: #b9e7e7;
             padding: 7.5px 15px;
             border: none;
             cursor: pointer;
-            color: teal;
+            color: rgb(128, 17, 134);;
             background-color: white;
-            border: 1px solid teal;
+            border: 1px solid rgb(128, 17, 134);;
 
             &:hover {
               border: 1px solid white;
@@ -359,16 +359,16 @@ $lightGreen: #b9e7e7;
 
             :first-child{
               cursor: pointer;
-              color: teal;
+              color: rgb(128, 17, 134);;
               background-color: white;
-              border: 1px solid teal;
+              border: 1px solid rgb(128, 17, 134);;
               padding: 3px 5px;
             }
             :last-child{
               cursor: pointer;
               color: white;
-              background-color: teal;
-              border: 1px solid teal;
+              background-color: rgb(128, 17, 134);;
+              border: 1px solid rgb(128, 17, 134);;
               padding: 3px 5px;
             }
           }
@@ -377,7 +377,7 @@ $lightGreen: #b9e7e7;
             display: flex;
             align-items: center;
             gap: 2px;
-            color: teal;
+            color: rgb(128, 17, 134);;
           }
         }
       }
